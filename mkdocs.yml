@@ -143,4 +143,10 @@ pages:
 - ['Features/libgfchangelog.md', 'Features', 'libgf Changelog']
 - ['Features/meta.md', 'Features', 'meta xlator']
 
+
+# Troubleshooting Guide
+- ['Troubleshooting/gfid-to-path.md', 'Troubleshooting Guide', 'gfid to path']
+- ['Troubleshooting/split-brain.md', 'Troubleshooting Guide', 'Split Brain']
+- ['Troubleshooting/statedump.md', 'Troubleshooting Guide', 'Statedump']
+
 theme: readthedocs
