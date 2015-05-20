@@ -143,8 +143,13 @@ pages:
 - ['Features/libgfchangelog.md', 'Features', 'libgf Changelog']
 - ['Features/meta.md', 'Features', 'meta xlator']
 
+#GlusterFS Tools
+- ['GlusterFS Tools/README.md', 'GlusterFS Tools', 'GlusterFS Tools index']
+- ['GlusterFS Tools/glusterfind.md', 'GlusterFS Tools', 'glusterfind']
+- ['GlusterFS Tools/gfind_missing_files.md', 'GlusterFS Tools', 'gfind missing files']
 
 # Troubleshooting Guide
+- ['Troubleshooting/README.md', 'Troubleshooting Guide', 'Troubleshooting index']
 - ['Troubleshooting/gfid-to-path.md', 'Troubleshooting Guide', 'gfid to path']
 - ['Troubleshooting/split-brain.md', 'Troubleshooting Guide', 'Split Brain']
 - ['Troubleshooting/statedump.md', 'Troubleshooting Guide', 'Statedump']

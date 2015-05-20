@@ -27,6 +27,8 @@ Install Guide.
 
 -  [Features](./Features/README.md) - Guides for the features in the new release.
 
+-  [GlusterFS Tools](./GlusterFS Tools/README.md) - Guides for GlsuterFS tools.
+
 -  [Troubleshooting Guide](./Troubleshooting/README.md) - Guide for troubleshooting.
 
 **How to Contribute?**
