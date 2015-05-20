@@ -27,6 +27,8 @@ Install Guide.
 
 -  [Features](./Features/README.md) - Guides for the features in the new release.
 
+-  [Troubleshooting Guide](./Troubleshooting/README.md) - Guide for troubleshooting.
+
 **How to Contribute?**
 
 The Gluster documentation has its home on GitHub, and the easiest way to contribute is to use 
