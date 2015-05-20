@@ -141,5 +141,6 @@ pages:
 - ['Features/worm.md', 'Features', 'Write Once Read Many']
 - ['Features/distributed-geo-rep.md', 'Features', 'Distributed Geo Replication']
 - ['Features/libgfchangelog.md', 'Features', 'libgf Changelog']
+- ['Features/meta.md', 'Features', 'meta xlator']
 
 theme: readthedocs

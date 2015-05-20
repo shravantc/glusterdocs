@@ -40,3 +40,4 @@
 -   [Write Once Read Many](./worm.md)
 -   [Distributed geo replication](./distributed-geo-rep.md)
 -   [libgf changelog](./libgfchangelog.md)
+-   [meta xlator](./meta.md)
