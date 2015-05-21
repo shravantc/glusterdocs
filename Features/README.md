@@ -39,5 +39,9 @@
 -   [Server Quorum](./server-quorum.md)
 -   [Write Once Read Many](./worm.md)
 -   [Distributed geo replication](./distributed-geo-rep.md)
+<<<<<<< HEAD
 -   [libgf changelog](./libgfchangelog.md)
 -   [meta xlator](./meta.md)
+=======
+-   [libgf changelog](./libgfchangelog.md)
+>>>>>>> ac790617f160849160428f221d46093d567537d1
