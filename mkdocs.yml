@@ -5,8 +5,6 @@ site_description: Project documentation for Gluster Filesystem
 repo_url: https://github.com/shravantc/glusterdocs/
 
 pages:
-- ['index.md', 'Home']
-
 # **************************
 # **DROP DOWN MENU OPTIONS** 
 # **************************
