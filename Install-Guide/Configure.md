@@ -89,5 +89,3 @@ which would cause any attempt to mount the volume fail.
 Now, we should start the volume.
 
 		gluster volume start gv0
-
-Find all documentation [here](../index.md)
